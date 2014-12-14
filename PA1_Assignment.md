@@ -1,4 +1,3 @@
-setwd("Z:/Dokumenty/Coursera/Literate Statistical Programming")  
 Literate statistics programming course - Assignment 1
 ======================================
 
