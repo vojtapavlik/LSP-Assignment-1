@@ -115,5 +115,6 @@ xyplot(steps ~ interval|Days, data = total2, type = "l", layout=c(1,2))
 ```
 
 ![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-7-1.png) 
-Average patterns of the weekdays and weekend days are different. There is a higher activity around time interval 
+
+Average patterns of the weekdays and weekend days are different. There is a higher activity in time interval 500 to 800 in weekdays, which suggest earlier getting up and commuting to work. On weekends, however, the subject made more steps after 1000 interval, which were also spread irregularly in the time. One may speculate that the volunteer has a desk job and lives actively during the weekends.  
 
